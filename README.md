@@ -1,6 +1,6 @@
 # Discord Chatbot with Profanity Filter using OpenAI
 
-This is a Discord chatbot implemented in Python that utilizes the OpenAI GPT-3.5-turbo model for generating responses. The bot also includes a profanity filter using the `better_profanity` library to censor and handle inappropriate language.
+This is a Discord chatbot implemented in Python that uses the OpenAI GPT-3.5-turbo model for generating responses. The bot also includes a profanity filter using the `better_profanity` library to censor and handle inappropriate language.
 
 ## Prerequisites
 
